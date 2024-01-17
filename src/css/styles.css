@@ -1,0 +1,22 @@
+/* common */
+@import url('./reset.css');
+@import url('./container.css');
+@import url('./fonts.css');
+/*HEADER*/
+@import url('./header.css');
+/*HERO*/
+@import url('./hero.css');
+/*ABOUT US*/
+@import url('./about-us.css');
+/* OUR COLLECTION */
+@import url('./our-collection.css');
+/*BACKGROUND IMG */
+@import url('./back-img.css');
+/* YOUR ORDER */
+@import url('./your-order.css');
+/* TESTIMONIALS */
+@import url('./testimonials.css');
+/* FOOTER */
+@import url('./footer.css');
+/* MOBAIL MENU */
+@import url('./mobail-menu.css');
